@@ -1,14 +1,12 @@
-* student
+## About me
 
-* College of Software engineering
+- graduate student
+- College of Software engineering
+- Nanjing University
 
-* Nanjing University
+## Project
 
-### About me
+## Publication
 
-
-
-### Publication
-
-<span style="color:blue">*Software Systems*</span>. [pdf will be available after camera ready] <br />
+<span style="color:blue">*Software Systems*</span>. [<a href="phd-advice.pdf">preprint</a>] <br />
 
